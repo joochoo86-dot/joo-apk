@@ -1,5 +1,12 @@
 [
   {
+    "name": "JOO TV PLUS",
+    "version": "14",
+    "pkg": "iptv.rtx.youtivj",
+    "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/JOO_TV_PLUS_v14.apk",
+    "size": 51812425
+  },
+  {
     "name": "Joomate Green",
     "version": "5.3.3",
     "pkg": "ar.xenonreb.tv",
