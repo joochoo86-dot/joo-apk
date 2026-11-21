@@ -28,17 +28,24 @@
     "size": 6790605
   },
   {
-    "name": "Proton VPN",
+    "name": "WireGuard",
+    "version": "1.0.20260315",
+    "pkg": "com.wireguard.android",
+    "url": "https://download.wireguard.com/android-client/com.wireguard.android-1.0.20260315.apk",
+    "size": 16943472
+  },
+  {
+    "name": "Proton VPN 5.21.57.0",
     "version": "5.21.57.0",
     "pkg": "ch.protonvpn.android",
     "url": "https://github.com/ProtonVPN/android-app/releases/download/5.21.57.0/ProtonVPN-5.21.57.0.605215700.-production-vanilla-direct-release.apk",
     "size": 61141753
   },
   {
-    "name": "WireGuard",
-    "version": "1.0.20260315",
-    "pkg": "com.wireguard.android",
-    "url": "https://download.wireguard.com/android-client/com.wireguard.android-1.0.20260315.apk",
-    "size": 16943472
+    "name": "Proton VPN 5.20.74.0",
+    "version": "5.20.74.0",
+    "pkg": "ch.protonvpn.android",
+    "url": "https://github.com/ProtonVPN/android-app/releases/download/5.20.74.0/ProtonVPN-5.20.74.0.605207400.-production-vanilla-direct-release.apk",
+    "size": 61075275
   }
 ]
