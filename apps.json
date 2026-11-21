@@ -26,5 +26,19 @@
     "pkg": "com.phlox.tvwebbrowser",
     "url": "https://github.com/truefedex/tv-bro/releases/download/v2.1.6/tvbro-2.1.6-generic-geckoExcluded.apk",
     "size": 6790605
+  },
+  {
+    "name": "Proton VPN",
+    "version": "5.21.57.0",
+    "pkg": "ch.protonvpn.android",
+    "url": "https://github.com/ProtonVPN/android-app/releases/download/5.21.57.0/ProtonVPN-5.21.57.0.605215700.-production-vanilla-direct-release.apk",
+    "size": 61141753
+  },
+  {
+    "name": "WireGuard",
+    "version": "1.0.20260315",
+    "pkg": "com.wireguard.android",
+    "url": "https://download.wireguard.com/android-client/com.wireguard.android-1.0.20260315.apk",
+    "size": 16943472
   }
 ]
