@@ -21,10 +21,10 @@
     "size": 30898448
   },
   {
-    "name": "Proton VPN",
-    "version": "5.20.98.0",
-    "pkg": "ch.protonvpn.android",
-    "url": "https://github.com/ProtonVPN/android-app/releases/download/5.20.98.0/ProtonVPN-5.20.98.0.605209800.-production-vanilla-direct-release.apk",
-    "size": 60497711
+  "name": "Proton VPN",
+  "version": "5.5.68.0",
+  "pkg": "ch.protonvpn.android",
+  "url": "https://github.com/ProtonVPN/android-app/releases/download/5.5.68.0/ProtonVPN-5.5.68.0.apk",
+  "size": 79457185
   }
 ]
