@@ -33,5 +33,26 @@
     "pkg": "com.vpn.lat",
     "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/VPN_lat_v3.9.64.apk",
     "size": 0
+  },
+  {
+    "name": "1.1.1.1 WARP",
+    "version": "6.x",
+    "pkg": "com.cloudflare.onedotonedotonedotone",
+    "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/Cloudflare_WARP.apk",
+    "size": 0
+  },
+  {
+    "name": "Psiphon Pro",
+    "version": "4xx",
+    "pkg": "com.psiphon3.subscription",
+    "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/Psiphon_Pro.apk",
+    "size": 0
+  },
+  {
+    "name": "OpenVPN for Android",
+    "version": "0.7.69",
+    "pkg": "de.blinkt.openvpn",
+    "url": "https://github.com/schwabe/ics-openvpn/releases/download/v0.7.69/ics-openvpn-0.7.69.apk",
+    "size": 0
   }
 ]
