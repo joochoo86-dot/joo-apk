@@ -13,46 +13,5 @@
     "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/Joomate_Green_proton4_signed.apk",
     "size": 49503762
   },
-  {
-    "name": "Joo+",
-    "version": "3.4.5",
-    "pkg": "com.ultratv.tv.nativeapp.debug",
-    "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/joo-plus-armv7-v3.4.5.apk",
-    "size": 30898448
-  },
-  {
-    "name": "WireGuard",
-    "version": "1.0.20260315",
-    "pkg": "com.wireguard.android",
-    "url": "https://download.wireguard.com/android-client/com.wireguard.android-1.0.20260315.apk",
-    "size": 16943472
-  },
-  {
-    "name": "VPN.lat",
-    "version": "3.9.64",
-    "pkg": "com.vpn.lat",
-    "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/VPN_lat_v3.9.64.apk",
-    "size": 0
-  },
-  {
-    "name": "1.1.1.1 WARP",
-    "version": "6.x",
-    "pkg": "com.cloudflare.onedotonedotonedotone",
-    "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/Cloudflare_WARP.apk",
-    "size": 0
-  },
-  {
-    "name": "Psiphon Pro",
-    "version": "4xx",
-    "pkg": "com.psiphon3.subscription",
-    "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/Psiphon_Pro.apk",
-    "size": 0
-  },
-  {
-    "name": "OpenVPN for Android",
-    "version": "0.7.69",
-    "pkg": "de.blinkt.openvpn",
-    "url": "https://github.com/schwabe/ics-openvpn/releases/download/v0.7.69/ics-openvpn-0.7.69.apk",
-    "size": 0
-  }
+  
 ]
