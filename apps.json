@@ -13,5 +13,18 @@
     "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/Joomate_Green_proton4_signed.apk",
     "size": 49503762
   },
-  
+  {
+    "name": "jooNet-diag",
+    "version": "16",
+    "pkg": "com.joo.netdiag",
+    "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/joo-netdiag-signed.16.apk",
+    "size": 74551
+  },
+  {
+    "name": "JooChoo",
+    "version": "1",
+    "pkg": "com.venompro.player",
+    "url": "https://github.com/joochoo86-dot/joo-apk/releases/download/V1/JooChoo_V1.0_blue.1.apk",
+    "size": 12706758
+  }
 ]
